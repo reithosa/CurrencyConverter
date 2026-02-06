@@ -12,6 +12,18 @@
 
 ---
 
+### Установка
+
+1. Установите apk файл на телефон.
+2. Найдите установленный файл на вашем устройстве.
+3. Нажмите на файл.
+4. Следуйте инструкциям.
+<br/>
+[![Download APK](https://img.shields.io/github/v/release/reithosa/CurrencyConverter)](https://github.com/reithosa/CurrencyConverter/releases/tag/apk)
+<br/>
+
+---
+
 ### Использование приложения
 Для работы приложения необходимо получить собственный API-ключ в [Open Exchange Rate](https://openexchangerates.org/) и вставить его в поле ввода на начальном экране. Сохранение API-ключа не реализовано, так что необходимо вводить API-ключ при каждом использовании приложения. 
 
@@ -54,3 +66,5 @@
 <br>
 
 ---
+
+[gh:releases]: https://github.com/YiiGuxing/TranslationPlugin/releases
