@@ -18,8 +18,11 @@
 2. Найдите установленный файл на вашем устройстве.
 3. Нажмите на файл.
 4. Следуйте инструкциям.
+
 <br/>
+
 [![Download APK](https://img.shields.io/github/v/release/reithosa/CurrencyConverter)](https://github.com/reithosa/CurrencyConverter/releases/tag/apk)
+
 <br/>
 
 ---
